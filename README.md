@@ -20,4 +20,4 @@
 </p>
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=aleixdiazzz&show_icons=true&locale=en" alt="aleixdiazzz" />
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aleixdiazzz&show_icons=true&locale=en&layout=compact" alt="aleixdiazzz" />
+<p><img align="left" src="https://camo.githubusercontent.com/eab394302bcefbe961892585a69b11e95b7a7dd029305ae64216851a40246b2f/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67733f757365726e616d653d616c6569786469617a7a7a2673686f775f69636f6e733d74727565266c6f63616c653d656e266c61796f75743d636f6d70616374" alt="aleixdiazzz" />
