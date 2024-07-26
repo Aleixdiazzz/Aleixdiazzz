@@ -8,7 +8,6 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<img src="https://www.codewars.com/users/Aleixdiazzz/badges/micro"/>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/aleix-diaz-llabrés-3b59b0200/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/aleix-diaz-llabrés-3b59b0200/" height="30" width="40" /></a> 
   <a href="https://stackoverflow.com/users/https://stackoverflow.com/users/23299228/aleixdiazzz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/23299228/aleixdiazzz" height="30" width="40" /></a>
 </p>
